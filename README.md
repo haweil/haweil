@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/haweil](https://github.com/haweil)
 
-- 💬 Ask me about **C++,C#,PHP and MySQL**
+- 💬 Ask me about **C++,C#,PHP,Laravel and MySQL**
 
 - 📫 How to reach me **mohamed.haweil10@gmail.com**
 
