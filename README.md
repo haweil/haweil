@@ -9,7 +9,9 @@
 
  # 💫 About Me:
 - 🔭 I'm a Junior Software engineer
-- 🌱 I am a computer science student lvl 300 at Mansoura University
+
+- 🌱 I am a computer science student lvl 4 at Mansoura University
+
 - 🧑‍💻 I’m currently learning **Backend Development (PHP and Laravel) & Software Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/haweil](https://github.com/haweil)
