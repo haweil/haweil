@@ -26,7 +26,7 @@
 <a href="https://twitter.com/haweil_74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haweil_74" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-kamal-haweil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-kamal-haweil" height="30" width="40" /></a>
 <a href="https://fb.com/mohamedhaweil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedhaweil" height="30" width="40" /></a>
-<a href="https://instagram.com/haweil_74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haweil_74" height="30" width="40" /></a>
+<a href="https://instagram.com/haweil_72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haweil_74" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/haweil_74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="haweil_74" height="30" width="40" /></a>
 </p>
 <br>
