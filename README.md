@@ -3,16 +3,17 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-haweil1.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF2D20?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mohamed-kamal-haweil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohamed.haweil10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://twitter.com/haweil_74"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://codeforces.com/profile/haweil_74"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 </p>
 
 <p align="center">
   <a href="#-about-me"><b>About</b></a> &nbsp;•&nbsp;
   <a href="#-experience"><b>Experience</b></a> &nbsp;•&nbsp;
   <a href="#-projects"><b>Projects</b></a> &nbsp;•&nbsp;
+  <a href="https://portfolio-haweil1.vercel.app/"><b>Portfolio</b></a> &nbsp;•&nbsp;
   <a href="#-tech-stack"><b>Tech Stack</b></a> &nbsp;•&nbsp;
   <a href="#-achievements"><b>Achievements</b></a> &nbsp;•&nbsp;
   <a href="#-github-activity"><b>Activity</b></a>
@@ -38,9 +39,10 @@ Back-End Developer specializing in **PHP/Laravel**, **RESTful APIs**, scalable b
 ### Back-End Developer — [BOD](https://www.linkedin.com/company/%D8%B4%D8%B1%D9%83%D8%A9-%D9%88%D9%84%D8%A7%D8%AF%D8%A9-%D8%AD%D9%84%D9%85-%D9%84%D9%84%D8%A5%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%A8%D8%AD%D8%A7%D8%AB/home/)
 `Mar 2025 – Present` · Remote, Saudi Arabia
 
-- Design and implement backend features and REST APIs for production platforms
+- Launched **[Athar-Riyada](https://athar-riyada.com/)**, a consulting platform now live and serving **1,000+ nonprofit organizations**
+- Contributing to the development of **[Ibaaq](https://front.ibaaq.com/)**, a multi-role ERP platform for nonprofit organizations
+- Contributing to **Athar OS**, an AI-powered platform for managing nonprofit organizations, integrating AI for form analysis and form filling
 - Build role-based systems and dashboards with Laravel and Filament, supporting multiple user roles and organizational workflows
-- Contribute to **Ibaaq**, a multi-role ERP platform for nonprofit organizations
 - Own CI/CD, deployment, and production workflows, automating build, testing, and deployment for reliable releases
 - Collaborate on backend architecture, security, performance optimization, and maintainability
 
@@ -53,71 +55,11 @@ Back-End Developer specializing in **PHP/Laravel**, **RESTful APIs**, scalable b
 
 ## 🚀 Projects
 
-> Click a project to expand it.
+My production work across consulting, ERP, healthcare, booking, and sports platforms lives in my portfolio, with the details behind each project.
 
-<details open>
-<summary><b>Athar-Riyada</b> — Consulting Platform &nbsp;<code>Production · KSA</code></summary>
-<br>
-
-[Website](https://athar-riyada.com/)
-
-- Backend platform with fully role-based access and organizational workflows
-- REST APIs powering role-specific dashboards and core platform operations
-- Admin dashboards built with Filament, plus organization-level dashboards
-- Organizational structures, employees, roles, permissions, invitations, audit logs, and administrative operations
-
-</details>
-
-<details>
-<summary><b>Ibaaq</b> — Nonprofit ERP Platform &nbsp;<code>Active Development</code></summary>
-<br>
-
-[Platform](https://front.ibaaq.com/)
-
-- End-to-end ERP covering organizational, operational, and financial management
-- Backend workflows for plans, employees, projects, programs, financial operations, recruitment, subscriptions, and system settings
-- Role-specific dashboards for organizations, beneficiaries, supporters, and consulting entities
-- APIs for role-based access, organization management, workflows, and business operations
-- Modular backend architecture focused on scalability, maintainability, and clean code
-
-</details>
-
-<details>
-<summary><b>Valerian-SPA</b> — Wellness Booking Platform &nbsp;<code>Production · KSA</code></summary>
-<br>
-
-[Website](https://valerianspa.com/ar) · [Mobile App](https://apps.apple.com/eg/app/valerian-spa/id6745766072)
-
-- Optimized the order-creation workflow, reducing processing time and improving overall system performance
-- Integrated Tamara, Tabby, and MyFatoorah for checkout and installment payments
-- Integrated WhatsApp Cloud API (Meta) for automated booking confirmations and notifications
-- Role-based admin system with granular permissions covering bookings, services, orders, financial reports, content, settings, and analytics
-- Backend ecosystem supporting the web platform, admin dashboard, and mobile application
-
-</details>
-
-<details>
-<summary><b>Tahrr</b> — Mental Health Telehealth Platform &nbsp;<code>Production · KSA</code></summary>
-<br>
-
-[Patient App](https://apps.apple.com/eg/app/id6755934343) · [Doctor App](https://apps.apple.com/eg/app/id6755935025)
-
-- Production telehealth platform connecting patients and doctors through dedicated mobile applications
-- Real-time chat, voice, and video consultations using Agora
-- Moyasar integration for end-to-end payment processing of paid consultations
-- Backend and admin dashboard for users, doctors, consultations, and platform operations
-- Designed for concurrent real-time sessions with a focus on performance and scalability
-
-</details>
-
-<details>
-<summary><b>Sporta</b> — Football Academies Management &nbsp;<code>Production · UAE</code></summary>
-<br>
-
-- Platform managing football academies, including player registration, scheduling, and subscriptions
-- Custom admin dashboard giving academy owners full control over members and operations
-
-</details>
+<p align="center">
+  <a href="https://portfolio-haweil1.vercel.app/#work"><img src="https://img.shields.io/badge/View%20my%20projects-FF2D20?style=for-the-badge&logo=vercel&logoColor=white" alt="View my projects" /></a>
+</p>
 
 ## 🛠 Tech Stack
 
@@ -148,11 +90,11 @@ Back-End Developer specializing in **PHP/Laravel**, **RESTful APIs**, scalable b
 
 ## 🏆 Achievements
 
-- 🥉 **IEEE Victories 3.0 Competition** — 3rd Place
-- 🥉 **GDG Delta Hackathon** — 3rd Place
-- 🛰️ **NASA Space Apps Hackathon**
-- 💻 **ECPC 2024** — Participation
-- 📜 **Data Structures Decode** · **Algorithms Analysis & Design**
+- 🥉 [**IEEE Victories 3.0 Competition**](https://drive.google.com/file/d/1IRWGHKD1PZPNAcN_nJZcAhuykCdbw2rv/view) — 3rd Place
+- 🥉 [**GDG Delta Hackathon**](https://drive.google.com/file/d/18KajWaFkVwyYfcmYSj3spUQ-0VGQ4E3D/view) — 3rd Place
+- 🛰️ [**NASA Space Apps Hackathon**](https://drive.google.com/file/d/1sL-MP1gqpmURvGQCUUybub-FOZtx28Dw/view)
+- 💻 [**ECPC 2024**](https://drive.google.com/file/d/1VMQ3_OongKF42vZY80Li1Oj0rnI4IWW7/view) — Participation
+- 📜 [**Data Structures Decode**](https://drive.google.com/file/d/1Z3j4aezLle7jTA30jzC_h3v83ual0JDA/view) · [**Algorithms Analysis & Design**](https://drive.google.com/file/d/15WSFjVahAHO21FkLaMaUALgufhstb3B_/view)
 
 ## 📈 GitHub Activity
 
