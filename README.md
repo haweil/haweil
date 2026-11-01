@@ -1,96 +1,177 @@
-<h1 align="center">Hi 👋, I'm Mohamed Kamal</h1>
-<h3 align="center">Backend Developer (PHP & Laravel) from Egypt 🇪🇬</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=haweil&label=Profile%20views&color=0e75b6&style=flat" alt="haweil" /> 
-		   <img src="https://img.shields.io/github/followers/haweil?label=Followers" alt="haweil" />
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Mohamed Kamal Haweil — Back-End Developer" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haweil" alt="haweil" /></a> </p>
-
- # 💫 About Me:
-- 🔭 Backend Developer at **Bod** with **1.5+ years** of hands-on experience building and maintaining production applications
-
-- 💼 Also working as a **Freelance Backend Developer**, delivering web applications and APIs for various clients
-
-- 🎓 Computer Science graduate from **Mansoura University**
-
-- 🧑‍💻 Specialized in **PHP & Laravel**, with solid experience in building RESTful APIs, database design, and scalable backend systems. Also worked with **NestJS / Node.js**
-
-- 🌱 Continuously improving my skills in **Software Architecture, Design Patterns & Clean Code**
-
-- 👨‍💻 All of my projects are available at [https://github.com/haweil](https://github.com/haweil)
-
-- 📫 How to reach me **mohamed.haweil10@gmail.com**
-
-- ⚡ Fun fact **I am Footballer**
-<br>
-
-## 📩 Connect with me
-<p align="left">
-<a href="https://twitter.com/haweil_74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haweil_74" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-kamal-haweil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-kamal-haweil" height="30" width="40" /></a>
-<a href="https://fb.com/mohamedhaweil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedhaweil" height="30" width="40" /></a>
-<a href="https://instagram.com/haweil_72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haweil_74" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/haweil_74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="haweil_74" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-kamal-haweil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohamed.haweil10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/haweil_74"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://codeforces.com/profile/haweil_74"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 </p>
+
+<p align="center">
+  <a href="#-about-me"><b>About</b></a> &nbsp;•&nbsp;
+  <a href="#-experience"><b>Experience</b></a> &nbsp;•&nbsp;
+  <a href="#-projects"><b>Projects</b></a> &nbsp;•&nbsp;
+  <a href="#-tech-stack"><b>Tech Stack</b></a> &nbsp;•&nbsp;
+  <a href="#-achievements"><b>Achievements</b></a> &nbsp;•&nbsp;
+  <a href="#-github-activity"><b>Activity</b></a>
+</p>
+
+## 💫 About Me
+
+Back-End Developer specializing in **PHP/Laravel**, **RESTful APIs**, scalable backend systems, and third-party integrations. I build and maintain production applications across **Saudi Arabia and the UAE**, including ERP, consulting, healthcare, and booking platforms.
+
+- 🏗️ **Focus:** backend architecture, MySQL, authentication and authorization, performance optimization
+- 🚀 **Delivery:** CI/CD, Docker, and production deployments
+- 🎓 **Education:** B.S. in Computer Science, Mansoura University
+- 🧑‍🏫 **Community:** former Head of the Back-End Circle at Mega Team MU, mentoring members on Laravel, database design, and clean code
+- 🌍 **Languages:** Arabic (Native) · English (Professional Working Proficiency)
+- ⚽ **Fun fact:** I am a footballer
+
+<p align="center">
+  <img src="assets/flow.svg" width="100%" alt="Clients call a Laravel REST API that works with Redis, MySQL and third-party integrations" />
+</p>
+
+## 💼 Experience
+
+### Back-End Developer — [BOD](https://www.linkedin.com/company/%D8%B4%D8%B1%D9%83%D8%A9-%D9%88%D9%84%D8%A7%D8%AF%D8%A9-%D8%AD%D9%84%D9%85-%D9%84%D9%84%D8%A5%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%A8%D8%AD%D8%A7%D8%AB/home/)
+`Mar 2025 – Present` · Remote, Saudi Arabia
+
+- Design and implement backend features and REST APIs for production platforms
+- Build role-based systems and dashboards with Laravel and Filament, supporting multiple user roles and organizational workflows
+- Contribute to **Ibaaq**, a multi-role ERP platform for nonprofit organizations
+- Own CI/CD, deployment, and production workflows, automating build, testing, and deployment for reliable releases
+- Collaborate on backend architecture, security, performance optimization, and maintainability
+
+### Freelance Back-End Developer
+`May 2025 – Present` · Remote
+
+- Deliver production applications end-to-end for clients across Saudi Arabia and the UAE, from requirements and architecture to deployment and maintenance
+- Own the full backend lifecycle: API development, database design, third-party integrations, CI/CD, and production support
+- Refactor legacy backend codebases to improve performance, maintainability, and reliability
+
+## 🚀 Projects
+
+> Click a project to expand it.
+
+<details open>
+<summary><b>Athar-Riyada</b> — Consulting Platform &nbsp;<code>Production · KSA</code></summary>
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat&logo=typescript&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
+[Website](https://athar-riyada.com/)
 
-### 💻 Backend Development
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) 
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-5A67D8?style=flat&logo=filament&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=flat&logo=composer&logoColor=white)
+- Backend platform with fully role-based access and organizational workflows
+- REST APIs powering role-specific dashboards and core platform operations
+- Admin dashboards built with Filament, plus organization-level dashboards
+- Organizational structures, employees, roles, permissions, invitations, audit logs, and administrative operations
 
-### 🔗 Integrations & APIs
-![Payment Gateways](https://img.shields.io/badge/Payment%20Gateways-2E7D32?style=flat&logo=stripe&logoColor=white)
-![Tabby](https://img.shields.io/badge/Tabby-3AC5B9?style=flat&logoColor=white)
-![Tamara](https://img.shields.io/badge/Tamara-000000?style=flat&logoColor=white)
-![MyFatoorah](https://img.shields.io/badge/MyFatoorah-0055A5?style=flat&logoColor=white)
-![Moyasar](https://img.shields.io/badge/Moyasar-1A73E8?style=flat&logoColor=white)
-![Fawry](https://img.shields.io/badge/Fawry-FDB913?style=flat&logoColor=black)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)
-![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?style=flat&logo=whatsapp&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-0866FF?style=flat&logo=meta&logoColor=white)
-![Agora](https://img.shields.io/badge/Agora-099DFD?style=flat&logo=agora&logoColor=white)
+</details>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![BooTSTRAP](https://img.shields.io/badge/BooTSTRAP-%FF6C37.svg?style=flat&logo=BooTSTRAP&logoColor=white)
-![AJAX](https://img.shields.io/badge/Ajax-%23777BB4.svg?style=flat&logo=Ajax&logoColor=white)
-![Jquery](https://img.shields.io/badge/Jquery-%2307405e.svg?style=flat&logo=Jquery&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-
+<details>
+<summary><b>Ibaaq</b> — Nonprofit ERP Platform &nbsp;<code>Active Development</code></summary>
 <br>
 
-## 📊 Github Stats
- <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="haweil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haweil&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haweil&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="haweil" height="230px"/>
+[Platform](https://front.ibaaq.com/)
+
+- End-to-end ERP covering organizational, operational, and financial management
+- Backend workflows for plans, employees, projects, programs, financial operations, recruitment, subscriptions, and system settings
+- Role-specific dashboards for organizations, beneficiaries, supporters, and consulting entities
+- APIs for role-based access, organization management, workflows, and business operations
+- Modular backend architecture focused on scalability, maintainability, and clean code
+
+</details>
+
+<details>
+<summary><b>Valerian-SPA</b> — Wellness Booking Platform &nbsp;<code>Production · KSA</code></summary>
 <br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=haweil&theme=tokyonight_duo" alt="haweil" /></p>
-  <br>
+
+[Website](https://valerianspa.com/ar) · [Mobile App](https://apps.apple.com/eg/app/valerian-spa/id6745766072)
+
+- Optimized the order-creation workflow, reducing processing time and improving overall system performance
+- Integrated Tamara, Tabby, and MyFatoorah for checkout and installment payments
+- Integrated WhatsApp Cloud API (Meta) for automated booking confirmations and notifications
+- Role-based admin system with granular permissions covering bookings, services, orders, financial reports, content, settings, and analytics
+- Backend ecosystem supporting the web platform, admin dashboard, and mobile application
+
+</details>
+
+<details>
+<summary><b>Tahrr</b> — Mental Health Telehealth Platform &nbsp;<code>Production · KSA</code></summary>
+<br>
+
+[Patient App](https://apps.apple.com/eg/app/id6755934343) · [Doctor App](https://apps.apple.com/eg/app/id6755935025)
+
+- Production telehealth platform connecting patients and doctors through dedicated mobile applications
+- Real-time chat, voice, and video consultations using Agora
+- Moyasar integration for end-to-end payment processing of paid consultations
+- Backend and admin dashboard for users, doctors, consultations, and platform operations
+- Designed for concurrent real-time sessions with a focus on performance and scalability
+
+</details>
+
+<details>
+<summary><b>Sporta</b> — Football Academies Management &nbsp;<code>Production · UAE</code></summary>
+<br>
+
+- Platform managing football academies, including player registration, scheduling, and subscriptions
+- Custom admin dashboard giving academy owners full control over members and operations
+
+</details>
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <a href="https://www.php.net" title="PHP"><img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP" /></a>
+  <a href="https://laravel.com" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" width="48" alt="Laravel" /></a>
+  <a href="https://nestjs.com" title="NestJS"><img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS" /></a>
+  <a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" /></a>
+  <a href="https://www.mongodb.com" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" /></a>
+  <a href="https://redis.io" title="Redis"><img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" /></a>
+  <a href="https://firebase.google.com" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase" /></a>
+  <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /></a>
+  <a href="https://aws.amazon.com/s3/" title="AWS S3"><img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS S3" /></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /></a>
+  <a href="https://www.postman.com" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman" /></a>
+</p>
+
+| Area | Skills |
+| --- | --- |
+| **Backend** | PHP · Laravel · REST APIs · NestJS · Livewire · Filament |
+| **Architecture** | OOP · SOLID · Design Patterns · MVC · Database Design |
+| **Databases** | MySQL · MongoDB · Redis · Firebase |
+| **Performance** | Redis Caching · Laravel Queues · Query Optimization |
+| **Integrations** | Moyasar · Tabby · Tamara · MyFatoorah · PayPal · WhatsApp Cloud API · Third-Party APIs |
+| **Real-Time** | WebSockets · Agora (Video/Voice) · Real-Time Chat |
+| **DevOps** | Docker · CI/CD · VPS Management · cPanel · AWS S3 · Git/GitHub |
+| **Languages & Tools** | PHP · JavaScript · C++ · Postman |
+
+## 🏆 Achievements
+
+- 🥉 **IEEE Victories 3.0 Competition** — 3rd Place
+- 🥉 **GDG Delta Hackathon** — 3rd Place
+- 🛰️ **NASA Space Apps Hackathon**
+- 💻 **ECPC 2024** — Participation
+- 📜 **Data Structures Decode** · **Algorithms Analysis & Design**
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haweil&theme=tokyonight_duo&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haweil/haweil/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/haweil/haweil/output/snake-light.svg" width="100%" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=haweil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/haweil?tab=followers"><img src="https://img.shields.io/github/followers/haweil?label=Followers" alt="Followers" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="" />
+</p>

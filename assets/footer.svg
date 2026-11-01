@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="Animated wave">
+  <defs><linearGradient id="w" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff2d20"/><stop offset="1" stop-color="#4cc9f0"/></linearGradient></defs>
+  <style>
+    .w{animation:slide 9s linear infinite}.w2{animation-duration:14s;opacity:.45}
+    @keyframes slide{to{transform:translateX(-600px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <path class="w w2" fill="url(#w)" d="M0 62C100 22 200 22 300 62S500 102 600 62 800 22 900 62 1100 102 1200 62 1400 22 1500 62 1700 102 1800 62V110H0Z"/>
+  <path class="w" fill="url(#w)" d="M0 78C100 48 200 48 300 78S500 108 600 78 800 48 900 78 1100 108 1200 78 1400 48 1500 78 1700 108 1800 78V110H0Z"/>
+</svg>

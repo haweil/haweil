@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Mohamed Kamal Haweil, Back-End Developer">
+  <title>Mohamed Kamal Haweil — Back-End Developer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#16213e"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#ffb4ad"/><stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff2d20"/><stop offset="1" stop-color="#4cc9f0"/>
+    </linearGradient>
+    <radialGradient id="glowA"><stop offset="0" stop-color="#ff2d20" stop-opacity=".38"/><stop offset="1" stop-color="#ff2d20" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB"><stop offset="0" stop-color="#4cc9f0" stop-opacity=".3"/><stop offset="1" stop-color="#4cc9f0" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity=".05"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="340" rx="18"/></clipPath>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif;text-anchor:middle}
+    .code{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;font-size:20px;fill:#8fa3c7;opacity:0;text-anchor:start;animation:drift 12s linear infinite}
+    .name{font-size:68px;font-weight:700;fill:url(#name);animation:rise 1s ease-out both}
+    .title{font-size:30px;font-weight:600;fill:#ff8a80;animation:rise 1s .25s ease-out both}
+    .role{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;font-size:25px;fill:#4cc9f0;opacity:0;animation:role 16s infinite}
+    .r2{animation-delay:4s}.r3{animation-delay:8s}.r4{animation-delay:12s}
+    .a{animation:floatA 11s ease-in-out infinite}.b{animation:floatB 13s ease-in-out infinite}
+    .line{animation:sweep 5s ease-in-out infinite;transform-origin:600px 210px}
+    .c2{animation-delay:2s}.c3{animation-delay:4s}.c4{animation-delay:6s}.c5{animation-delay:8s}.c6{animation-delay:10s}
+    @keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+    @keyframes role{0%{opacity:0;transform:translateY(10px)}4%,21%{opacity:1;transform:none}25%,100%{opacity:0;transform:translateY(-10px)}}
+    @keyframes drift{0%{opacity:0;transform:translateY(24px)}15%,75%{opacity:.45}100%{opacity:0;transform:translateY(-44px)}}
+    @keyframes floatA{50%{transform:translate(90px,34px)}}
+    @keyframes floatB{50%{transform:translate(-90px,-30px)}}
+    @keyframes sweep{50%{transform:scaleX(1.7)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.r1{opacity:1}.name,.title{opacity:1}.code{opacity:.35}}
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <circle class="a" cx="210" cy="90" r="240" fill="url(#glowA)"/>
+    <circle class="b" cx="1000" cy="260" r="260" fill="url(#glowB)"/>
+    <text class="code" x="40" y="46">Route::apiResource()</text>
+    <text class="code c2" x="900" y="46">php artisan queue:work</text>
+    <text class="code c3" x="62" y="292">$this-&gt;authorize()</text>
+    <text class="code c4" x="930" y="296">Cache::remember()</text>
+    <text class="name" x="600" y="128">Mohamed Kamal Haweil</text>
+    <text class="title" x="600" y="178">Back-End Developer</text>
+    <rect class="line" x="540" y="204" width="120" height="4" rx="2" fill="url(#bar)"/>
+    <text class="role r1" x="600" y="258">&lt;PHP · Laravel · REST APIs /&gt;</text>
+    <text class="role r2" x="600" y="258">&lt;Scalable backend systems /&gt;</text>
+    <text class="role r3" x="600" y="258">&lt;Third-party integrations /&gt;</text>
+    <text class="role r4" x="600" y="258">&lt;Clean, maintainable architecture /&gt;</text>
+  </g>
+</svg>
